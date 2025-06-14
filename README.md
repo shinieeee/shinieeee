@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there 👋, I'm Shinie Kiruba</h1>
 <p align="center">
   💻 A passionate developer | 🎓 Problem Solver | 🌐 Tech Enthusiast
@@ -5,29 +6,15 @@
 
 ---
 
-### ✨ Creating bugs since ...
-2022 – but fixing them with twice the passion 😄
-
----
-
 ### 📚 I'm currently learning ...
 - Advanced **Data Structures and Algorithms**
 - **Full-stack Development** with **MERN Stack**
-- Building **Java GUI-based games and tools**
-- Creating offline-first educational apps for rural areas
 
 ---
 
-### 🎯 Goals
-- 🚀 Launch an educational app for low-connectivity students  
-- 💼 Land a developer role in a product-based company  
+### 🎯 Goals  
 - 🧠 Improve my CP ranks on LeetCode & GFG  
 - 🛠️ Build impactful real-world projects that solve core problems
-
----
-
-### 🎲 Fun fact
-I built a robot that could follow people... and it did better than some teammates in group projects 😅🤖
 
 ---
 
@@ -39,18 +26,20 @@ I built a robot that could follow people... and it did better than some teammate
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### 🧠 Frameworks & Tools
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+#### 🧠 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### 🎨 Others
+#### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+#### 🧰 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -65,11 +54,11 @@ I built a robot that could follow people... and it did better than some teammate
 
 ### 🔗 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📬 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio](https://your-portfolio.com) *(if any)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shinie-kiruba-6535b2257/)
+- 📬 [Email](mailto:shiniekiruba30@gmail.com)
 
 ---
 
 > “Strive not to be a success, but rather to be of value.” — *Albert Einstein*
+
 
