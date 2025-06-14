@@ -1,59 +1,75 @@
-<h2 align="left">About me</h2>
+<h1 align="center">Hi there 👋, I'm Shinie Kiruba</h1>
+<p align="center">
+  💻 A passionate developer | 🎓 Problem Solver | 🌐 Tech Enthusiast
+</p>
 
-###
+---
 
-<h2 align="left">My name is Shinie kiruba and I'm a final year ECE student, from Chennai</h2>
+### ✨ Creating bugs since ...
+2022 – but fixing them with twice the passion 😄
 
-###
+---
 
-<h3 align="left">Hi I am a curious developer who enjoys building real-world solutions that make a difference. With experience in Java, C, SQL, HTML, CSS, JavaScript, MongoDb,Git,React etc. I love bringing ideas to life through code.</h3>
+### 📚 I'm currently learning ...
+- Advanced **Data Structures and Algorithms**
+- **Full-stack Development** with **MERN Stack**
+- Building **Java GUI-based games and tools**
+- Creating offline-first educational apps for rural areas
 
-###
+---
 
-<p align="left">📚 I'm currently learning:<br> <br>Advanced Data Structures and Algorithms<br>Full-stack Development with MERN Stack<br><br>🎯 Goals:<br><br>🏅 Consistently improve my competitive programming ranks on platforms like LeetCode & GFG<br>🎓 Build impactful projects that solve real-world problems, especially in education and accessibility</p>
+### 🎯 Goals
+- 🚀 Launch an educational app for low-connectivity students  
+- 💼 Land a developer role in a product-based company  
+- 🧠 Improve my CP ranks on LeetCode & GFG  
+- 🛠️ Build impactful real-world projects that solve core problems
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 🎲 Fun fact
+I built a robot that could follow people... and it did better than some teammates in group projects 😅🤖
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### 💼 Tech Stack
 
-###
+#### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 🧠 Frameworks & Tools
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+#### 🎨 Others
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiniekiruba&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiniekiruba&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📬 [Email](mailto:your-email@example.com)
+- 🌐 [Portfolio](https://your-portfolio.com) *(if any)*
+
+---
+
+> “Strive not to be a success, but rather to be of value.” — *Albert Einstein*
+
