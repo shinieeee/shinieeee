@@ -62,7 +62,6 @@
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=shinieeee)
-![Languages](https://img.shields.io/github/languages/top/shinieeee/relief_distribution_management)
 
 
 
