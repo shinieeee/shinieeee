@@ -61,6 +61,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/shinie-kiruba-6535b2257/)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=shinieeee)
+![Languages](https://img.shields.io/github/languages/top/shinieeee/relief_distribution_management)
+
 
 
 
