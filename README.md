@@ -9,7 +9,7 @@
 ### ✨ About Me
 
 - 🔧 Crafting code & creating bugs since the start of my dev journey  
-- 📚 Currently learning Full Stack Development (MERN) & Advanced DSA  
+- 📚 Currently learning Full Stack Development  & Advanced DSA  
 - 🧠 Fascinated by OS internals, system-level programming, and scalable architectures  
 - 🎯 Goal: Build impactful real-world applications & dive deep into system design  
 
