@@ -49,7 +49,7 @@
 ### 🚧 Currently Exploring
 
 - 🔁 Advanced Data Structures & Algorithms  
-- 💡 Scalable MERN Stack Applications   
+- 💡 Scalable Full Stack Applications   
 - ⚙️ Operating Systems & Linux Programming  
 
 ---
