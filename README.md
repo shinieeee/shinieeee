@@ -48,7 +48,7 @@
 
 ### 🚧 Currently Exploring
 
-- 🔁 Advanced Data Structures & Algorithms  
+- 🔁 Advanced Data Structures & Algorithms
 - 💡 Scalable Full Stack Applications   
 - ⚙️ Operating Systems & Linux Programming  
 
