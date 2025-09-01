@@ -4,7 +4,7 @@
   💻 Developer | 🎯 Problem Solver | 🌐 Tech Explorer | 🐧 Linux Enthusiast   
 </p>
 
----
+--- 
 
 ### ✨ About Me
 
