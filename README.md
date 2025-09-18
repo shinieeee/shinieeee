@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shinie Kiruba</h1>
 
-<p align="center">
+<p align="center"> 
   💻 Developer | 🎯 Problem Solver | 🌐 Tech Explorer | 🐧 Linux Enthusiast   
 </p>
 
