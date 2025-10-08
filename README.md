@@ -34,7 +34,7 @@
 
 #### 🐧 OS & Low-Level Programming  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)   
 🧵 Multithreading | 🔐 Mutexes & Semaphores | 🧠 Memory Management
 
 #### ⚙️ Tools & Platforms  
